@@ -1,8 +1,7 @@
+![Meal](images/meal.jpg)
+
 # Midterm Debate
-
-This repo was created for midterm exam. Jenifer and Nathalia argued about which food is better: Savory or Sweet!
-
-___
+In this repo, we are going to argue about which flavor is better.
 
 ## Installation
 
