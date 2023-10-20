@@ -1,2 +1,5 @@
-# quelali_lima_midterm
-This repo is for midterm exam.
+![Meal](images/meal.jpg)
+
+# Midterm Debate
+In this repo, we are going to argue about which flavor is better.
+
